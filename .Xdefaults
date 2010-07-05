@@ -1,0 +1,99 @@
+! rxvt-unicode settings
+!! rxvt-unicode behaviour
+
+URxvt*termName: rxvt
+URxvt*scrollBar: false
+URxvt*scrollTtyOutput: false
+URxvt*scrollWithBuffer: true
+URxvt*scrollTtyKeypress: true
+URxvt*secondaryScroll: true
+URxvt*jumpScroll: true
+URxvt*skipScroll: true
+URxvt*keysym.M-u: perl:mark-yank-urls:activate_mark_mode
+URxvt*perl-ext: default,matcher,mark-yank-urls
+URxvt*perl-lib: ~/.libs/
+URxvt*saveLines: 500
+URxvt*visualBell: false
+URxvt*highlightSelection:  true
+URxvt*borderWidth: 0 
+URxvt*urlLauncher: fxs
+URxvt*pointerBlank: true
+URxvt*internalBorder: 3 
+URxvt.perl-ext-common: default,matcher
+URxvt.urlLauncher: firefox
+URxvt.matcher.button: 2
+URxvt.matcher.pattern.1: \\bwww\\.[\\w-]\\.[\\w./?&@#-]*[\\w/-]
+
+!! rxvt-unicode appearance
+URxvt*background: black
+URxvt*foreground: white
+URxvt*cursorColor: white
+URxvt*cursorBlink: false
+
+!!rxvt-unicode fonts
+URxvt.font:             xft:Terminus:pixelsize=7:antialias=true
+URxvt.boldFont:         xft:Terminus:bold:pixelsize=7:antialias=true
+
+!URxvt.font: -*-terminus-medium-*-*-*-*-120-*-*-*-*-*-*
+!URxvt.boldFont: -*-terminus-bold-*-*-*-*-120-*-*-*-*-*-*
+
+! xterm settings
+xterm*background: #00000
+xterm*foreground: #FFFFF
+xterm.font: -*-terminus-medium-*-*-*-*-120-*-*-*-*-*-*
+
+! Terminal color settings
+
+!fg/bg
+*foreground:    #FFFFFF
+*background:    #777777
+!black
+!*color0:  #000000
+!*color8:  #101010
+!red
+!*color1:  #8C4665
+!*color9:  #BF4D80
+!green
+!*color2:  #287373
+!*color10: #53A6A6
+!yellow
+!*color3:  #7C7C99
+!*color11: #9E9ECB
+!blue
+!*color4:  #395573
+!*color12: #477AB3
+!magenta
+!*color5:  #5E468C
+!*color13: #7E62B3
+!cyan
+!*color6:  #31658C
+!*color14: #6096BF
+!white
+!*color7:  #899CA1
+!*color15: #C0C0C0
+
+!Colorful-Neon
+! Black
+*color0: #111111
+*color8: #222222
+! Red
+*color1: #FF4747
+*color9: #FF6767
+! Green
+*color2: #AFC81C
+*color10: #BFC81C
+! Yellow
+*color3: #FDD338
+*color11: #F4D461
+! Blue
+*color4: #619AF4
+*color12: #5496FF
+! Purple
+*color5: #5F5A90
+*color13: #826AB1
+! Cyan
+*color6: #47E0FF
+*color14: #2ED9FB
+! White
+*color7: #FFFFFF
+*color15: #DEDEDE
