@@ -1,0 +1,3 @@
+;; -*- coding: utf-8-emacs; -*-
+(setq nnrss-group-alist 'nil)
+(setq nnrss-server-data '(("commandliner" 10 "http://feeds.feedburner.com/commandliners?format=xml") ("ycombinator" 118 "http://news.ycombinator.com/rss") ("reverse-engineering" 78 "http://www.reddit.com/r/ReverseEngineering/.rss") ("twitter" 20 "http://twitter.com/statuses/friends_timeline/156613858.rss") ("Ycombinator" 30 "http://news.ycombinator.com/rss") ("reddit-emacs" 63 "http://www.reddit.com/r/emacs/.rss") ("reddit-programming" 179 "http://www.reddit.com/r/programming/.rss") ("reverseengineering" 25 "http://www.reddit.com/r/ReverseEngineering/.rss")))

@@ -1,0 +1,20 @@
+news.announce.newusers: 1-2294
+comp.os.linux.security! 1-81477,81951-81952,81954-81956,81958-81960,81964,81966
+comp.security.oss.general!
+gmane.comp.security.oss.general!
+comp.security.misc! 1-71488
+comp.security.unix! 1-42792,42794,42802,42804-42827,42829-42839,42841-42844,42846-42859,42861-42862,42879-42880,42882,42884,42903
+nntp+news.gmane.org:gmane.linux.assembly:
+nntp+news.gmane.org:gmane.linux.c-programming: 3894
+nntp+news.gmane.org:gmane.linux.general.linux-users:
+nntp+news.gmane.org:gmane.emacs.bugs:
+nntp+news.gmane.org:gmane.comp.security.bugtraq:
+nntp+news.gmane.org:gmane.comp.security.full-disclosure:
+nntp+news.gmane.org:gmane.comp.security.dailydave: 4246,4251
+nntp+news.gmane.org:gmane.comp.security.oss.general:
+linux.kernel: 1-563167,706759
+news.groups.questions:
+linuxkernelnewbies!
+comp.os.linux!
+comp.lang.c: 1-706555,749322,749337
+gnu.emacs.gnus:
